@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Test","Test1 Looking up the definition of 'apple'","SUCCESS","2022-11-15T00:21:36.964+05:30[Asia/Calcutta]","0.0","23.46"
+"Test","Test2 Looking up the definition of 'pear'","SUCCESS","2022-11-15T00:22:01.246+05:30[Asia/Calcutta]","0.0","10.97"
+"Test2","Test1 Looking up the definition of 'apple'","SUCCESS","2022-11-15T00:21:37.189+05:30[Asia/Calcutta]","0.0","22.02"
+"Test2","Test2 Looking up the definition of 'pear'","SUCCESS","2022-11-15T00:22:01.231+05:30[Asia/Calcutta]","0.0","9.57"
